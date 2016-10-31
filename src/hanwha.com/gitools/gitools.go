@@ -36,44 +36,45 @@ func main() {
 		case "s":
 			argv = append(argv, "status")
 
-		case "co":
-			argv = append(argv, "log")
-
-		case "cob":
-			argv = append(argv, "log")
-
-		case "cob2":
-			argv = append(argv, "log")
-
-		case "delb":
-			argv = append(argv, "log")
-
-		case "m":
-			argv = append(argv, "log")
-
-		case "mp":
-			argv = append(argv, "log")
-
-		case "mpp":
-			argv = append(argv, "log")
-
-		case "ci":
-			argv = append(argv, "log")
-
-		case "cip":
-			argv = append(argv, "log")
-
-		case "df":
-			argv = append(argv, "log")
-
-		case "p":
-			argv = append(argv, "log")
-
-		case "j":
-			argv = append(argv, "log")
-
-		case "cp":
-			argv = append(argv, "log")
+			// case "co":
+			// 	argv = append(argv, "log")
+			//
+			// case "cob":
+			// 	argv = append(argv, "log")
+			//
+			// case "cob2":
+			// 	argv = append(argv, "log")
+			//
+			// case "delb":
+			// 	argv = append(argv, "branch")
+			// 	argv = append(argv, "-b")
+			//
+			// case "m":
+			// 	argv = append(argv, "log")
+			//
+			// case "mp":
+			// 	argv = append(argv, "log")
+			//
+			// case "mpp":
+			// 	argv = append(argv, "log")
+			//
+			// case "ci":
+			// 	argv = append(argv, "log")
+			//
+			// case "cip":
+			// 	argv = append(argv, "log")
+			//
+			// case "df":
+			// 	argv = append(argv, "log")
+			//
+			// case "p":
+			// 	argv = append(argv, "log")
+			//
+			// case "j":
+			// 	argv = append(argv, "log")
+			//
+			// case "cp":
+			// 	argv = append(argv, "log")
 
 		}
 	}
